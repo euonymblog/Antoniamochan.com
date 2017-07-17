@@ -1,0 +1,46 @@
+---
+
+layout: default
+
+title: Blog
+
+---
+<div class="pagetitle">
+  <h1>Antonia's Blog</h1>
+</div>
+
+
+<div class="blog-posts grid">
+
+ {% for post in site.posts %}
+
+   <div class="blog-post col-4_sm-6_xs-12">
+     <a href="{{ post.url }}">
+       <div class="blog-image" style="background-image: url('{{ post.image }}'); background-repeat: no-repeat; background-size: cover; background-position: center;">
+       </div>
+
+       <div class="blog-title" >
+         <h3>{{ post.title }}</h3>
+       </div>
+     </a>
+
+
+     <p class="summary">
+
+       {{ post.category }}
+
+       <span class="date">
+
+       {{ post.date | date: '%B %d, %Y' }}
+
+       </span>
+
+     </p>
+
+     <p class="blog-excerpt"> {{ post.excerpt }} </p>
+
+   </div>
+
+ {% endfor %}
+
+</div>

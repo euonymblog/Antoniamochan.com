@@ -1,0 +1,362 @@
+*{
+  padding: 0%;
+  margin: 0;
+  box-sizing: border-box;
+  /*border: 1px solid pink;*/
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Crushed', cursive;
+  color: #093824;
+}
+
+p {
+  font-family: 'Antic', sans-serif;
+  color: #093824;
+}
+
+a {
+  font-family: 'Antic', sans-serif;
+  font-size: 1rem;
+  text-decoration: none;
+  color: #093824;
+}
+
+a:hover {
+  color: #BF4E30;
+}
+
+/*a:hover {
+  color: #5CC49F;
+}*/
+
+/*This is the default layout section*/
+
+.header, .footer {
+  background-color: #5CC49F;
+  min-height: 10vh;
+  /*text-align: center;*/
+  padding: 3% 0 0 3%;
+}
+
+/*This is the helper section*/
+
+.pagetitle {
+  text-align: center;
+  margin-top: 5%;
+  font-size: 1.75rem;
+}
+
+header a {
+  font-family: 'Crushed', cursive;
+  font-size: 1.5rem;
+  color: #093824;
+  text-decoration: none;
+}
+
+.fa {
+  font-size: 1.5rem;
+}
+
+/*This is the homepage section*/
+
+.info {
+  margin-bottom: 3%;
+}
+
+#intro, #title {
+  text-align: center;
+  margin-top: 5%;
+}
+
+#title {
+  font-size: 2.5rem;
+}
+
+#intro {
+  font-size: 1.75rem;
+  margin-bottom: 5%;
+  line-height: 1.5;
+}
+
+#blogid {
+  padding-left:7%;
+  padding-right: 3%;
+}
+
+#blogimage {
+  background-image: url("../images/blogpic.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 50vh;
+}
+
+#webid {
+  padding-right: 7%;
+  padding-left: 3%;
+}
+
+#webimage {
+  background-image: url("../images/digicommspic.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 50vh;
+}
+
+.box-text {
+  font-size: 1.3rem;
+  margin-top: 3%;
+  text-align: justify;
+  padding: 0 1%;
+}
+
+.box-heading {
+  min-height: 10vh;
+  background-color: #5CC49F;
+  text-align: center;
+  font-size: 3rem;
+}
+
+/*This is the blog page section*/
+
+.blog-posts {
+  margin-top: 5%;
+}
+
+.blog-post {
+  padding: 3%;
+}
+
+.blog-image {
+  min-height: 25vh;
+}
+
+.blog-title {
+  margin-top: 5%;
+}
+
+.blog-excerpt {
+  text-align: justify;
+}
+
+.summary {
+  padding: 2% 0;
+}
+
+/*This is the post page section*/
+
+.post {
+  margin: 5% 15%;
+}
+
+.date {
+  margin-bottom: 3%;
+}
+
+.postcontent {
+  font-size: 1.3rem;
+  margin-top: 5%;
+}
+a.blog-excerpt{
+  font-family: 'Antic', sans-serif;
+  font-size: 1rem;
+}
+.postimage {
+  min-height: 40vh;
+}
+
+/*This is the digicomms section*/
+
+.siteheadline {
+  background-image: url('../images/hearts.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 30vh;
+  margin-top: 5%;
+}
+
+.siteheadline h2 {
+  color: #F9F8FD;
+  font-size: 2rem;
+  text-align: center;
+  padding: 7% 0;
+}
+.siteexplanation {
+  font-size: 1.5rem;
+  margin: 5% 10%;
+}
+
+.sitesubhead {
+  font-size: 1.5rem;
+}
+
+.box {
+  min-height: 40vh;
+  text-align: center;
+  padding: 5% 0;
+}
+
+#webdesign {
+  background-image: url('../images/design.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#webtools {
+  background-image: url('../images/tools.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#webwriting {
+  background-image: url('../images/writing.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.background {
+  background-color: #F9F8FD;
+  opacity: 0.75;
+  margin: 5% 15%;
+}
+
+.webtext {
+  padding: 0 5%;
+}
+
+.contact_form, .twitter, .instagram {
+  text-align: center;
+}
+
+
+/*This is the reviews section*/
+
+/*section{
+		padding-top: 50px;
+		padding-bottom: 100px;
+		width: 100%;
+		padding-left:0;
+		padding-right:0;
+}*/
+
+#sweetThings {
+  margin-bottom: 3%;
+}
+
+#icon-wrapper{
+	width:100%;
+	min-height:300px;
+}
+
+.icons {
+	width:25%;
+}
+.icons2 {
+	width:25%;
+}
+.icons3 {
+	width:25%;
+}
+.icons4 {
+	width:25%;
+}
+
+.icon-slide-container{
+	height:300px;
+	overflow:hidden;
+	text-align: left;
+	width: 300px;
+}
+
+.slide-icon{
+  width:300px;
+  height:auto;
+  margin-top:-300px;
+  -webkit-transition:.4s ease;
+  -moz-transition:.4s ease;
+  -ms-transition:.4s ease;
+  -o-transition:.4s ease;
+  transition:.4 ease;
+}
+
+.slide-icon:hover{
+  margin-top:0;
+}
+
+/*This is the contact section*/
+
+form {
+  padding-top: 2%;
+}
+
+.contact_form h4{
+  font-size: 2em;
+}
+
+.field, .fieldname {
+  padding-bottom: 3%;
+}
+
+.fieldname {
+  text-align: right;
+}
+
+.field {
+  text-align: left;
+  padding-left: 5%;
+}
+
+input {
+  min-width: 40%;
+  height: 50px;
+
+}
+
+.message {
+  height: 100px;
+}
+
+
+button {
+  padding: 1% 2% 1% 2%;
+  display: flex;
+  text-align: center;
+  font-size: 1.5em;
+  font-family: 'Crushed', cursive;
+  margin:auto;
+  margin-bottom: 5%;
+}
+
+/*.buttoncontainer {
+  align-items: center;*/
+  /*margin-bottom: 5%;*/
+
+/*this is the projects section*/
+
+ .projectimage {
+  min-height: 50vh;
+}
+
+.projects h4 {
+  font-size: 2rem;
+}
+.projecttitle {
+  padding-left: 2%;
+  padding-top: 3%;
+}
+
+.projectexplanation {
+  padding-right: 2%;
+  min-height: 50vh;
+}
+
+.projectexplanation p {
+  font-size: 1.5rem;
+  padding-left: 2%;
+}
