@@ -15,4 +15,4 @@ So now it's time for another change. After three and a half year's of hustling, 
 
 &nbsp;
 
-This also felt like a good time to move to my new website, which I've built myself and I hope showcases how much I've learned (as well as how much more I have to learn!). So take a look around, and please let me know what you think.
+This also felt like a good time to move to my new website, which I've built myself and I hope showcases how much I've learned (as well as how much more I have to learn!). So take a look around, and please let me know what you think. Until I get my comments sorted, you can contact me [via the website](/contact.html), or on [twitter](https://twitter.com/antoniam).
