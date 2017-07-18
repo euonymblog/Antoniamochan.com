@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 <div class="postimage" style="background-image: url('{{ page.image }}'); background-repeat: no-repeat; background-size: cover; background-position: center;">
 
@@ -27,4 +28,10 @@ layout: default
 
 
   <p class="summary">Category: {{ page.category }}</p>
+  
+  {% if page.comments %}
+  
+      <div id="disqus_thread"></div>
+        <script>
+  {% endif %}
 </div>
