@@ -2,7 +2,7 @@
 layout: post
 title: Pioneers of the Erasmus Generation
 category: European Union
-image: 'http://antoniamochan.com/wp-content/uploads/2017/05/faculty-club.jpg'
+image: /uploads/leiden-248153.jpg
 permalink: /Erasmus.html
 ---
 
