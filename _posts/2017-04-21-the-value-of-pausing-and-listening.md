@@ -2,7 +2,7 @@
 layout: post
 title: The value of pausing and listening
 category: Organisations
-image: /uploads/kristina-flour-185592 2.jpg
+image: /uploads/another-blog-post.png
 ---
 
 
