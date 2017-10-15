@@ -2,11 +2,11 @@
 layout: post
 title: The value of pausing and listening
 category: Organisations
-image: 'http://antoniamochan.com/wp-content/uploads/2017/04/kristina-flour-185592.jpg'
+image: /uploads/kristina-flour-185592 2.jpg
 ---
 
 
-I liked [this piece](https://hbr.org/2017/04/how-to-design-meetings-your-team-will-want-to-attend)&nbsp;in HBR on holding good meetings. Having sat through a fair few interminable meetings in my time, quite a lot of it resonated.
+I liked [this piece](https://hbr.org/2017/04/how-to-design-meetings-your-team-will-want-to-attend) in HBR on holding good meetings. Having sat through a fair few interminable meetings in my time, quite a lot of it resonated.
 
 <br>One particular element made me think about a wider issue. The author writes
 
