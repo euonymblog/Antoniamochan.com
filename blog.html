@@ -5,9 +5,10 @@ layout: default
 title: Blog
 
 ---
-<div class="pagetitle">
+<div id="blogtitle">
   <h1>Antonia's Blog</h1>
 </div>
+
 
 
 <div class="blog-posts grid">
@@ -15,30 +16,33 @@ title: Blog
  {% for post in site.posts %}
 
    <div class="blog-post col-4_sm-6_xs-12">
-     <a href="{{ post.url }}">
-       <div class="blog-image" style="background-image: url('{{ post.image }}'); background-repeat: no-repeat; background-size: cover; background-position: center;">
-       </div>
+     <div class="blog-outline">
 
-       <div class="blog-title" >
-         <h3>{{ post.title }}</h3>
-       </div>
-     </a>
+       <a href="{{ post.url }}">
+         <div class="blog-image" style="background-image: url('{{ post.image }}'); background-repeat: no-repeat; background-size: cover; background-position: center;">
+         </div>
+
+         <div class="blog-title" >
+           <h3>{{ post.title }}</h3>
+         </div>
+       </a>
 
 
-     <p class="summary">
+       <p class="summary">
 
        {{ post.category }}
 
-       <span class="date">
+        <span class="date">
 
-       {{ post.date | date: '%B %d, %Y' }}
+          {{ post.date | date: '%B %d, %Y' }}
 
-       </span>
+        </span>
 
-     </p>
-
-     <p class="blog-excerpt"> {{ post.excerpt }} </p>
-
+      </p>
+      <div class="blog-excerpt">
+        <p> {{ post.excerpt }} </p>
+      </div>
+    </div>
    </div>
 
  {% endfor %}

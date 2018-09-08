@@ -3,7 +3,7 @@ layout: post
 title: What remote workers teach us about leadership
 category: organisations
 author: Antonia
-image: 'http://antoniamochan.com/wp-content/uploads/2017/03/344H-copy.jpg'
+image: '/images/remotework.png'
 permalink: remote-worker-leadership.html
 ---
 
