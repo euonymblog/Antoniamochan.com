@@ -2,11 +2,15 @@
 layout: post
 title: The value of pausing and listening
 category: Organisations
+<<<<<<< HEAD
 image: '/images/ssh.png'
+=======
+image: /uploads/another-blog-post.png
+>>>>>>> origin/master
 ---
 
 
-I liked [this piece](https://hbr.org/2017/04/how-to-design-meetings-your-team-will-want-to-attend)&nbsp;in HBR on holding good meetings. Having sat through a fair few interminable meetings in my time, quite a lot of it resonated.
+I liked [this piece](https://hbr.org/2017/04/how-to-design-meetings-your-team-will-want-to-attend) in HBR on holding good meetings. Having sat through a fair few interminable meetings in my time, quite a lot of it resonated.
 
 <br>One particular element made me think about a wider issue. The author writes
 

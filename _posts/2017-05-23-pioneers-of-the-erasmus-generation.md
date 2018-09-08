@@ -2,7 +2,11 @@
 layout: post
 title: Pioneers of the Erasmus Generation
 category: European Union
+<<<<<<< HEAD
 image: '/images/leiden.png'
+=======
+image: /uploads/leiden-248153.jpg
+>>>>>>> origin/master
 permalink: /Erasmus.html
 ---
 

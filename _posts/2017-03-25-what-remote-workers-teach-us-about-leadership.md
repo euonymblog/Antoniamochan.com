@@ -1,9 +1,13 @@
 ---
 layout: post
 title: What remote workers teach us about leadership
-category: organisations
+category: Organisations
 author: Antonia
+<<<<<<< HEAD
 image: '/images/remotework.png'
+=======
+image: /uploads/oliver-thomas-klein-207908.jpg
+>>>>>>> origin/master
 permalink: remote-worker-leadership.html
 ---
 
@@ -22,11 +26,7 @@ Having worked in a large organisation for 20 years – and now working with seve
 
 <br>When I was a Spokesperson at the European Commission, our team operated in a very flat manner, especially compared to the hierarchical way other parts of that organisation were structured. And we worked out of our skins. At the time I attributed this to a few things-
 
-&nbsp;
-
 * we had a very clear goal for our work – getting more media coverage, reducing inaccurate coverage
-
-&nbsp;
 
 * we stood or fell by the quality of our work – if we messed up or didn’t do our work properly, that was patently clear for everyone to see. That’s a great motivator!
 
