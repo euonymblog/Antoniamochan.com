@@ -2,11 +2,8 @@
 layout: post
 title: The value of pausing and listening
 category: Organisations
-<<<<<<< HEAD
 image: '/images/ssh.png'
-=======
 image: /uploads/another-blog-post.png
->>>>>>> origin/master
 ---
 
 
