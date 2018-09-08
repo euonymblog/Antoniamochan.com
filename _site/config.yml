@@ -5,3 +5,5 @@ categories:
   - Tech
   - Life
   - European Union
+gems:
+  - jekyll-archives
