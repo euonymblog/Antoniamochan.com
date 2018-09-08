@@ -4,6 +4,8 @@ title: Do things that scare you
 category: life
 image: /images/shehacksteam.png
 permalink: /do-things-scare-you.html
+comments: true
+id: 160718
 ---
 
 

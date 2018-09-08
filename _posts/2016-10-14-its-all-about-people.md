@@ -4,6 +4,8 @@ title: "It's all about people"
 category: Organisations
 image: /uploads/another-blog-post.png
 permalink: /all-about-people.html
+id: 141016
+comments: true
 ---
 
 

@@ -4,6 +4,8 @@ title: Learning to code in Bali
 image: /images/bali.jpg
 category: Technology
 permalink: /coding-bali.html
+id: 050517
+comments: true
 ---
 
 

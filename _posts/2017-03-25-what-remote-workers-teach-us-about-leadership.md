@@ -6,6 +6,8 @@ author: Antonia
 image: '/images/remotework.png'
 image: /uploads/oliver-thomas-klein-207908.jpg
 permalink: remote-worker-leadership.html
+id: 250317
+comments: true
 ---
 
 

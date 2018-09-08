@@ -4,6 +4,8 @@ title: The value of pausing and listening
 category: Organisations
 image: '/images/ssh.png'
 image: /uploads/another-blog-post.png
+id: 210417
+comments: true
 ---
 
 

@@ -4,6 +4,8 @@ title: Money for Nothing
 category: life
 image: /uploads/moneyfornothing.png
 permalink: /money-nothing.html
+id: 040117
+comments: true
 ---
 
 
