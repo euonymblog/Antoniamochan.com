@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What's the secret to network success?"
-category: life
+category: Life
 image: /uploads/secret-success.png
 permalink: /whats-the-secret-to-network-success.html
 id: 250816

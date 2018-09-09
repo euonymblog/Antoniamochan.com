@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The women that made me
-category: life
+category: Life
 author: Antonia
 image: 'http://media.al.com/press-register-commentary/photo/10901230-large.jpg'
 permalink: women-made-me

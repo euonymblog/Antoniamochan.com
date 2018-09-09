@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Another change
-category: life
+category: Life
 image: /uploads/anotherchnage.png
 permalink: /another-change.html
 id: 180718

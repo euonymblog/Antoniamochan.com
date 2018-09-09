@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do things that scare you
-category: life
+category: Life
 image: /images/shehacksteam.png
 permalink: /do-things-scare-you.html
 comments: true

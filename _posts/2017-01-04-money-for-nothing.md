@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Money for Nothing
-category: life
+category: Life
 image: /uploads/moneyfornothing.png
 permalink: /money-nothing.html
 id: 040117
 comments: true
+year: 2017
 ---
 
 

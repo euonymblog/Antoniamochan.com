@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<div class="pagetitle">
+  <h1>Archive of posts on {{ site.category.name }}</h1>
+</div>
+
+
+  <div class="grid-spaceAround postsInArchive">
+    {% for post in page.posts %}
+      <div class="col-12">
+
+            <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </div>
+    {% endfor %}
+
+
+  </div>
