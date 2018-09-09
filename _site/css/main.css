@@ -426,3 +426,17 @@ button {
   margin-top: 7%;
   text-align: center;
 }
+
+/* this is the 404 section */
+
+#gif {
+  margin: 3% 20% 0 20%;
+}
+
+.sorry h2 {
+  margin: 3% 10% 0 10%;
+}
+
+.sorry {
+  text-align: center;
+}

@@ -4,7 +4,7 @@ title: The women that made me
 category: Life
 author: Antonia
 image: 'http://media.al.com/press-register-commentary/photo/10901230-large.jpg'
-permalink: women-made-me
+permalink: the-women-who-made-me/
 id: 080317
 comments: true
 ---
